@@ -1,0 +1,34 @@
+
+header {
+    background-color: #ffffff; 
+  }
+  
+  .logo img {
+    width: 150px;
+  }
+  
+  .nav-links {
+    list-style: none;
+   
+  }
+  
+ 
+  .hero {
+    background-image: url('hero-background.jpg'); 
+  }
+  
+  .hero-content {
+    text-align: center;
+  
+  }
+  
+ 
+  footer {
+    background-color: #f4f4f4; 
+  }
+  
+  .footer-content {
+    text-align: center;
+   
+  }
+  
